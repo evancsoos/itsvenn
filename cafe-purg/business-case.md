@@ -13,8 +13,10 @@ Café Purg is a membership-driven café and late-night social space for the crow
 
 ## 2. Why This Works (and why now)
 
-### The gap in the market
-- Bentonville's square is saturated with daytime coffee (Onyx is expanding to 7 cafés, Airship to 5) — but **no dedicated late-night non-alcoholic venue exists anywhere in NWA**. Late-night guides list only bars and alcohol-led restaurants; coffee shops close by early evening. *(Honest flag: that's a verified supply gap, not measured demand — which is why we pre-sell memberships before building, §7.)*
+### The gap in the market (now verified venue-by-venue)
+- We checked every venue within ~3 blocks of the square (`research/competitive-hours-matrix.md`): **after 9pm on a weeknight, every lit door on the square serves alcohol as the primary product.** The only all-ages non-alcohol venue open past 9 any night is the Spark Café soda fountain (weekends, to 10pm). A 17-year-old's realistic options at 9:30pm Saturday: one ice cream counter. Even First Friday — the marquee all-ages event — ends at 9.
+- The customers exist and are growing: **Gallup (Aug 2025) has US drinking at a 90-year low — only 50% of 18–34s drink at all.** Locally, Bentonville's two high schools graduate **~1,400 new 18-year-olds every year**, NWACC is at record enrollment (10,700+), and its approved Bentonville campus master plan includes ~3,000 on-campus housing units.
+- *(Honest flag: that's verified supply gap + favorable demographics, not measured demand — which is why pre-selling memberships is the load-bearing step in §7. The comp-set research in `research/demand-evidence.md` is blunt: standalone "sober bars" fail routinely; the survivors are **activity venues that happen to be alcohol-free**. Café Purg is positioned as exactly that — games, study hours, events, desserts — not as an "NA bar.")*
 - The market is growing under us: Bentonville is Arkansas's fastest-growing city 2020–24 (+14%, ~62K people), Crystal Bridges drew 800K+ visitors in 2025 and just opened a 100,000 sq ft expansion, Walmart's new home office (capacity 15,000+) opened January 2025, and city events generated $41M in economic impact in 2024 — double the prior record. 90,000+ bike tourists come through annually.
 - The non-alcoholic category is the fastest-growing in beverage: $823M off-premise in 2024 (+27% YoY, crossing $1B in 2025 per NielsenIQ), NA spirits +86% YoY, and ~49% of Americans planned to drink less in 2025. Mocktails sell for **$8–$14** with cocktail-like margins and zero licensing overhead.
 
@@ -43,7 +45,15 @@ Café Purg is a membership-driven café and late-night social space for the crow
 
 ### Concept guardrails
 - 18–21 is the **identity and marketing wedge**, not a door policy. Everyone is welcome; the brand, hours, and programming aim at the under-served gap.
+- **Positioning, per the comp research: a late-night activity venue that happens to be alcohol-free** — game library (evening cover, waived for members), study-hall passes, event nights, dessert program. The board-game-café literature warns that long dwell times + coffee-only tickets = "full room, barely breaking even," so the room itself is gently priced: evening per-head target is $15–22 (drink + dessert/snack + cover), vs. the $8–10 daytime ticket. Full priced menu: `concept-menu.md`.
 - The menu is deliberately engineered to the cheapest compliant tier: beverage-forward, no fryer/grill/range, ventless cooking only. This single decision avoids a Type I hood system ($20–55K installed), keeps the health-inspection tier low, and may reduce the grease-trap requirement to an under-sink unit (§5).
+
+### The alcohol option, researched and decided (`research/alcohol-option-abc.md`)
+The question "does no-alcohol leave money on the table?" now has verified answers from the ABC Rulebook and Arkansas Code:
+- **The under-21 brand and an alcohol permit are NOT legally incompatible.** Arkansas has no rule excluding under-21 patrons from a permitted *restaurant* — they can sit in the same room, at the same tables; 19–20-year-old staff can even serve beer/wine (not bartend). The legal wall we assumed doesn't exist.
+- **The upgrade path is cheap and real:** Benton County is wet, the 1,000-ft church/school rule applies only to package stores (not on-premises restaurant permits), the block already holds five alcohol permits, and a **Restaurant Beer & Wine combo costs $350/yr** with no food-to-alcohol ratio in Arkansas law, beer/wine exempt from the mixed-drink supplemental taxes, and a 1–4 month process.
+- **What staying dry costs:** a small beer/wine list typically adds 5–15% of revenue at ~75–80% (beer) / 60–70% (wine) gross margin — roughly **$25–45K/yr foregone gross profit** at base-case revenue. Material, not existential, and partially offset by 80–90%-margin zero-proof drinks.
+- **Why we still open dry (Option A), with the A+ path documented:** an 18–21-branded venue serving alcohol is structurally a permanent ABC compliance test (sale-to-minor cases dominate ABC's violation résumés), the permit is discretionary ("public convenience and advantage" — a protest could cite our own branding), and dram-shop liability's minor-sale prong is exactly our crowd. The zero-proof program is also the only thing on this block the five licensed neighbors can't copy. **For Craig, the point is: the tenant is not structurally capped — if evening revenue data later justifies it, the $350 permit is exercisable in a season**, with ID-scan/wristband protocols and 100% staff certification (the Ocean Beach Café model: NA-forward menu, small real list, all-ages room).
 
 ## 4. Regulatory Path — City of Bentonville (verified June 2026)
 
@@ -103,9 +113,17 @@ Two scenario notes for Craig: shell work (HVAC, electrical, restroom, structure)
 - **The family-lease effect, quantified:** at market rent ($30–36K/yr), a benchmark café here is viable but ordinary. Each $10K/yr of rent relief moves ~3 points of net margin — the difference between an industry-average survivor and a comfortably profitable business that can reinvest in programming.
 - **Honesty check:** roughly half of independent coffee shops don't survive five years (no rigorous primary source exists; best available analyses converge on ~50%). The mitigations are structural, not hopeful: recurring membership revenue, rent advantage, a defensible niche, and demand-testing before buildout.
 
+## 6a. How It Gets Funded (`research/financing-grants.md`)
+
+The model (`financials/`) shows break-even at 40–70 transactions/day and a slow-year stress test where 100 members turn five losing winter months into zero. The capital side, verified program-by-program:
+- **The family LLC is the most powerful lever**: landlord-funded tenant improvements amortized into a market-rate rent (standard structure, ~7–8%) move $25–75K of fixed buildout off the loan request before it's sized. SBA's related-party rules are NOT a problem here — they bind only when SBA money buys the building; what's needed is a 10+ year market-rate lease (broker comp letter) and Craig's signature on a standard landlord waiver.
+- **A sanity-checked $250K stack**: ~$60K founder/family equity (gift letters count toward SBA injection) + ~$100K SBA 7(a) via Arkansas Capital Corporation + ~$35K microloan (FORGE/Communities Unlimited) + equipment financing + **$15K Kiva NWA at 0% interest, credit-blind, Walton-matched** — the best first money for a thin-credit founder, and the campaign doubles as pre-marketing.
+- **What not to budget**: Walton Family Foundation grants (nonprofits only — their money reaches founders through Kiva/EforAll/Startup Junkie, all free to use), dead pitch programs, façade grants (none exist). Free help that lenders respect: ASBTDC loan packaging, Startup Junkie consulting, EforAll NWA accelerator.
+- **One approval lever to plan for**: 7(a) lenders discount first-time operators — naming an experienced café manager in the plan materially changes the odds.
+
 ## 7. The Plan — What Happens in What Order
 
-1. **Pre-sell the concept** (now, ~$0): founding-member waitlist at $25–50/mo, pop-ups via a licensed commissary kitchen (explicitly allowed by ADH). Target: 75–100 committed founding members before construction starts. This is the demand proof the whitespace data can't give us.
+1. **Pre-sell the concept** (now, ~$0): founding-member waitlist at $25–50/mo, Sans Bar-style $15-cover pop-up nights via a licensed commissary kitchen (explicitly allowed by ADH), Kiva campaign. Target: **75–100 committed founding members — this is Gate 1**, and per the demand research it is the only honest demand test that exists; no survey or dataset can substitute.
 2. **Free conceptual meeting** with Bentonville Planning (479-271-3122) + Building & Fire Safety (479-271-3108), with Craig: confirm parcel zoning, get the accessibility and egress questions answered in writing, scope the structural check. Also: written grease-trap determination (479-696-0293) and written ABC confirmation on NA beverages.
 3. **Go/no-go.** If elevator-required or structural surprise → stop, having spent almost nothing, with a fallback of ground-floor lease comps already researched.
 4. **Engage an AR-licensed architect** ($1.5–6K) → ADH plan review → city permit → buildout. 4–7 months to opening.
@@ -122,7 +140,8 @@ Two scenario notes for Craig: shell work (HVAC, electrical, restroom, structure)
 |---|---|---|
 | Building official requires elevator or major structural work | **High — the go/no-go gate** | Written determination at pre-app before any spend; ADA exemption plausibly applies (verified rule text); ground-floor pickup counter as fallback; VPL ($10–25K) before LULA ($60–70K) |
 | Single stair caps occupancy at 29 | Medium | Design to 29 first (still ~$330K/yr revenue capacity at benchmark turns); add egress stair (~$10–30K) only if demand proves out |
-| 18–21 concept doesn't convert to memberships | Medium | Pre-sell before building; the café works as a late-night café even at zero memberships |
+| 18–21 concept doesn't convert to memberships | **High — comp set says so** | Sober-bar comps fail when positioned as drink venues; we position as activity venue, price the room (covers/passes), and gate construction on a successful pre-sale. No churn benchmark exists for this demographic — Gate 1 creates our own data |
+| Someone fills the night gap first (ex-Pressroom corner at 100 NW 2nd is vacant, successor unannounced) | Medium | Speed to pop-ups builds the audience before any competitor builds a room |
 | Buildout exceeds lean budget | Medium | Ventless menu locks out the biggest overruns; phased buildout; landlord/tenant cost split |
 | Bookstore conflict (noise, hours, shared egress) | Medium | Bring them in early; they're also the accessibility solution (shared pickup counter) and a natural cross-promotion partner |
 | Dec–Feb seasonal slump | Medium | Membership base + finals-week and event programming |
@@ -141,3 +160,9 @@ Two scenario notes for Craig: shell work (HVAC, electrical, restroom, structure)
 | `research/soft-costs-furniture-opex.md` | FF&E, soft costs, insurance, monthly operating floor |
 | `research/totals-revenue-membership-na.md` | Startup totals, revenue benchmarks, margins, membership precedents, NA category data |
 | `research/bentonville-market-data.md` | Skyline Report lease rates, growth/tourism data, coffee scene, labor |
+| `research/property-record-116-w-central.md` | County parcel record: owner LLC, values, ~$11.9K/yr tax, 24×82 ft footprint |
+| `research/demand-evidence.md` | Sober-bar comp failures, activity-venue reframe, Gallup data, local 18–21 population |
+| `research/competitive-hours-matrix.md` | Venue-by-venue hours/prices near the square; the after-9pm darkness, verified |
+| `research/financing-grants.md` | SBA paths, AR CDFIs, Kiva NWA, family-LLC lease rules, $250K capital stack |
+| `research/alcohol-option-abc.md` | ABC permits, under-21 rules, Option A/A+/B analysis |
+| `research/name-clearance.md` | Domain availability; SOS/USPTO checks remaining |

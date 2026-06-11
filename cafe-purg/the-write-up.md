@@ -18,7 +18,9 @@ There is no place in Northwest Arkansas for people between 18 and 21 — too old
 | Walmart's new home office | **15,000+ employee capacity**, opened Jan 2025 |
 | City event economic impact, 2024 | **$41M** — double the prior record |
 | Bike tourists per year | **90,000+** |
-| Dedicated late-night NA venues in NWA | **0** |
+| All-ages non-alcohol venues on the square open past 9pm | **One ice cream counter** (Spark Café, weekends to 10pm) — verified venue-by-venue |
+| US drinking rate (Gallup, Aug 2025) | **90-year low**; only 50% of 18–34s drink at all |
+| New 18-year-olds minted yearly by Bentonville's two high schools | **~1,400** (+ NWACC at record 10,700 with housing planned) |
 | US non-alcoholic beverage category | **$1B+** in 2025, +27% YoY; mocktails sell at **$8–14** |
 
 ## What it costs to open
@@ -72,12 +74,22 @@ Market rent for ~1,000 sq ft near the square is **$30–36/sq ft/yr = $30,000–
 3. **Go / no-go.** If the answer is "elevator required" or "structural surprise," we stop — having spent essentially nothing.
 4. Architect → health plan review → city permit → buildout → open.
 
+## How it gets funded
+
+A verified $250K capital stack: ~$60K founder/family equity (documented gifts count toward SBA requirements) + ~$100K SBA 7(a) through Arkansas Capital Corporation + ~$35K CDFI microloan (FORGE/Communities Unlimited) + **$15K from Kiva NWA at 0% interest, no credit score required, Walton-matched**. The biggest lever isn't a loan at all: Craig funding part of the fixed buildout as landlord TI, amortized into a market-rate rent (standard commercial structure, ~7–8%) — it shrinks the loan before it's sized, and SBA's related-party rules don't apply since no SBA money touches the building. Free help that lenders respect: ASBTDC loan packaging and Startup Junkie consulting.
+
+## The alcohol question, answered
+
+Researched against the ABC Rulebook and Arkansas Code directly. Three facts change the picture: **(1)** Arkansas has no rule excluding under-21 customers from a permitted *restaurant* — the legal wall we assumed between the 18–21 brand and alcohol doesn't exist; **(2)** the upgrade is cheap and unobstructed — Benton County is wet, the church-distance rule applies only to package stores, this block already holds five permits, and a Restaurant Beer & Wine permit is **$350/yr** with a 1–4 month process; **(3)** staying dry forgoes roughly **$25–45K/yr in gross profit** at base-case revenue.
+
+The decision: **open zero-proof anyway** — an 18–21-branded venue pouring alcohol would be a permanent compliance target (sale-to-minor cases dominate ABC's enforcement docket), and the dry program is the one thing the five licensed neighbors can't copy. But for Craig the key point is the option value: **the tenant is never structurally capped — the $350 permit is exercisable in a single season** whenever the revenue data says so.
+
 ## The ask
 
 1. Agreement **in principle** to take the loft off Airbnb if the gates clear.
 2. **Two hours** at the city meeting together.
-3. A lease conversation **after** real construction bids exist — not before.
+3. A lease conversation **after** real construction bids exist — not before. (And one structural piece worth discussing then: landlord-funded TI amortized into rent — see "How it gets funded.")
 
 ## Stated honestly
 
-About half of independent cafés don't survive five years. The counters here are structural, not hopeful: recurring membership revenue smooths the Dec–Feb slump, the rent advantage is worth five figures a year, the niche is defensible by law (drinking age means bars can't follow), and the demand gets tested with pre-sales **before** construction money moves. The late-night gap is verified absence of supply, not proven demand — which is exactly what step 1 exists to find out.
+About half of independent cafés don't survive five years — and the comp set for "sober bars" specifically is worse: they fail or pivot routinely, and the survivors are *activity venues that happen to be alcohol-free*. That's why Café Purg is positioned as games + study + events + desserts with engineered per-head spend (evening target $15–22 with covers, vs. the $8–10 coffee ticket that sinks long-dwell venues), why membership matters (the slow-year stress test in `financials/` shows 100 members turning five losing winter months into zero), and why **nothing gets built until 75–100 founding members have actually paid**. The market data is favorable; the comp set is a warning; the pre-sale settles the argument either way — for a few thousand dollars instead of two hundred thousand.
